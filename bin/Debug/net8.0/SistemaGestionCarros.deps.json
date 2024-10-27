@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SistemaGestionCarros/1.0.0": {
+        "runtime": {
+          "SistemaGestionCarros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaGestionCarros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

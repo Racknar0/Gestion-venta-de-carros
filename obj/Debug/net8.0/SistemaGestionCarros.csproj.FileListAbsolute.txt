@@ -1,0 +1,14 @@
+F:\BACKUPS\UNAD\00_PROGRAMACION\U2\Actividad\SistemaGestionCarros\SistemaGestionCarros\bin\Debug\net8.0\SistemaGestionCarros.exe
+F:\BACKUPS\UNAD\00_PROGRAMACION\U2\Actividad\SistemaGestionCarros\SistemaGestionCarros\bin\Debug\net8.0\SistemaGestionCarros.deps.json
+F:\BACKUPS\UNAD\00_PROGRAMACION\U2\Actividad\SistemaGestionCarros\SistemaGestionCarros\bin\Debug\net8.0\SistemaGestionCarros.runtimeconfig.json
+F:\BACKUPS\UNAD\00_PROGRAMACION\U2\Actividad\SistemaGestionCarros\SistemaGestionCarros\bin\Debug\net8.0\SistemaGestionCarros.dll
+F:\BACKUPS\UNAD\00_PROGRAMACION\U2\Actividad\SistemaGestionCarros\SistemaGestionCarros\bin\Debug\net8.0\SistemaGestionCarros.pdb
+F:\BACKUPS\UNAD\00_PROGRAMACION\U2\Actividad\SistemaGestionCarros\SistemaGestionCarros\obj\Debug\net8.0\SistemaGestionCarros.GeneratedMSBuildEditorConfig.editorconfig
+F:\BACKUPS\UNAD\00_PROGRAMACION\U2\Actividad\SistemaGestionCarros\SistemaGestionCarros\obj\Debug\net8.0\SistemaGestionCarros.AssemblyInfoInputs.cache
+F:\BACKUPS\UNAD\00_PROGRAMACION\U2\Actividad\SistemaGestionCarros\SistemaGestionCarros\obj\Debug\net8.0\SistemaGestionCarros.AssemblyInfo.cs
+F:\BACKUPS\UNAD\00_PROGRAMACION\U2\Actividad\SistemaGestionCarros\SistemaGestionCarros\obj\Debug\net8.0\SistemaGestionCarros.csproj.CoreCompileInputs.cache
+F:\BACKUPS\UNAD\00_PROGRAMACION\U2\Actividad\SistemaGestionCarros\SistemaGestionCarros\obj\Debug\net8.0\SistemaGestionCarros.dll
+F:\BACKUPS\UNAD\00_PROGRAMACION\U2\Actividad\SistemaGestionCarros\SistemaGestionCarros\obj\Debug\net8.0\refint\SistemaGestionCarros.dll
+F:\BACKUPS\UNAD\00_PROGRAMACION\U2\Actividad\SistemaGestionCarros\SistemaGestionCarros\obj\Debug\net8.0\SistemaGestionCarros.pdb
+F:\BACKUPS\UNAD\00_PROGRAMACION\U2\Actividad\SistemaGestionCarros\SistemaGestionCarros\obj\Debug\net8.0\SistemaGestionCarros.genruntimeconfig.cache
+F:\BACKUPS\UNAD\00_PROGRAMACION\U2\Actividad\SistemaGestionCarros\SistemaGestionCarros\obj\Debug\net8.0\ref\SistemaGestionCarros.dll
